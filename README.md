@@ -1,7 +1,10 @@
 ![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/landing/landing.png "Welcome")
 
-<img src="https://github.com/               SachaaBoris/OC_13_OCL/blob/main/static/assets/img/logo.png"
-<img src="https://raw.githubusercontent.com/SachaaBoris/OC_13_OCL/main/static/assets/img/logo.png" width="273"/>
+	
+Initial commit
+<img src="https://github.com/SachaaBoris/SachaaBoris.github.io/blob/static/images/landing/landing.png" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/static/images/landing/landing.png" width="100%"/>
   
 # Bienvenue voyageur !  
   
