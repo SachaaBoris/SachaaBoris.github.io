@@ -102,16 +102,19 @@ voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable 
   
 ## Me contacter  
 Vous pouvez me contacter sur [Linkedin](https://fr.linkedin.com/in/sacha-amrain-14b4205a) si vous le souhaitez !  
-Vous trouverez également mon email ainsi que sur mon CV complet dans le Portfolio ci-après. 
-*[Portfolio Graphiste](http://sachaa.free.fr/book/book.html)*  
+Vous trouverez également mon email ainsi que sur mon CV complet dans ce [Portfolio Graphiste](http://sachaa.free.fr/book/book.html)  
   
 
   
-
+&nbsp;
+  
+&nbsp;
   
 --- 
   
-
+&nbsp;
+  
+&nbsp;
   
 
   
@@ -221,6 +224,5 @@ This summary would not be complete without my influences, those individuals/team
   
 ## Contact Me  
 You can reach out to me on [LinkedIn](https://fr.linkedin.com/in/sacha-amrain-14b4205a) if you wish!  
-You will also find my email as well as my full resume in the Portfolio below.   
-*[Portfolio Graphiste](http://sachaa.free.fr/book/book.html)*  
+You will also find my email as well as my full resume in this [Graphic Designer Portfolio](http://sachaa.free.fr/book/book.html)  
   
