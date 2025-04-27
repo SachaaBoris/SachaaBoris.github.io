@@ -4,7 +4,7 @@
 Initial commit
 <img src="https://github.com/SachaaBoris/SachaaBoris.github.io/blob/static/images/landing/landing.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/static/images/landing/landing.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/landing/landing.png" width="100%"/>
   
 # Bienvenue voyageur !  
   
