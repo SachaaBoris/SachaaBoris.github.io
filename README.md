@@ -25,14 +25,13 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" title="Windows" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" title="cmd" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="50px" alt="Powershell" title="Powershell" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png" width="50px" alt="Docker" title="Docker" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Github.png" width="50px" alt="Github" title="Github" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Sentry.png" width="50px" alt="Sentry" title="Sentry" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_PyCharm.png" width="50px" alt="PyCharm" title="PyCharm" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_VSCode.png" width="50px" alt="VSCode" title="VSCode" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png" width="50px" alt="Docker" title="Docker" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -49,8 +48,13 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" title="AiPrompts" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="50px" alt="Bootstrap" title="Bootstrap" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
+</p>
+
+<p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_mysql.png" width="50px" alt="mysql" title="mysql" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postgresql.png" width="50px" alt="Postgresql" title="Postgresql" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postman.png" width="50px" alt="Postman" title="Postman" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Sentry.png" width="50px" alt="Sentry" title="Sentry" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -146,14 +150,13 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" title="Windows" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" title="cmd" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="50px" alt="Powershell" title="Powershell" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png" width="50px" alt="Docker" title="Docker" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Github.png" width="50px" alt="Github" title="Github" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Sentry.png" width="50px" alt="Sentry" title="Sentry" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_PyCharm.png" width="50px" alt="PyCharm" title="PyCharm" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_VSCode.png" width="50px" alt="VSCode" title="VSCode" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png" width="50px" alt="Docker" title="Docker" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -170,8 +173,13 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" title="AiPrompts" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="50px" alt="Bootstrap" title="Bootstrap" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
+</p>
+
+<p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_mysql.png" width="50px" alt="mysql" title="mysql" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postgresql.png" width="50px" alt="Postgresql" title="Postgresql" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postman.png" width="50px" alt="Postman" title="Postman" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Sentry.png" width="50px" alt="Sentry" title="Sentry" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
