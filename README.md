@@ -4,7 +4,7 @@
   
   
   
-## A propos de moi  
+## À propos de moi  
 Adepte de la souris et du clavier, j'ai, depuis mon enfance, développé une passion dévorante pour l'informatique et, plus globalement, la création assistée par ordinateur. J'ai d'abord plongé dans l'exploration des coulisses des scripts et la création de mes propres mods pour personnaliser certaines expériences de jeux vidéo. Cette curiosité m'a rapidement amené à m'intéresser à la web-bidouille au début des années 2000 (mes premiers pas en tant que webmaster) et à développer des scripts destinés à simplifier mes tâches quotidiennes. Poste de webmaster pratiqué tout au long des années 2000's qui, par le biais du webdesign, m'amena au graphisme, que j'ai ensuite pratiqué tout au long des années 2010 en parallèle de la bidouille que je n'ai jamais vraiment cessée.  
 J'adore toujours résoudre des problèmes, explorer différentes pistes et voir le fruit de mes lignes de code exécuter les tâches demandées... Je trouve cela extrêmement motivant et gratifiant. C'est pourquoi j'ai finalement décidé, en 2024, de mettre à profit cette passion et cette énergie en approfondissant cette voie plus sérieusement avec l'école OpenClassrooms, dont j'ai reçu le diplôme "Développeur d'application en langage Python" en 2025.  
   
