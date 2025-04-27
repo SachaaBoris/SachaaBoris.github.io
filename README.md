@@ -1,4 +1,7 @@
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/landing/landing.png "Welcome")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/landing/landing.png "Welcome")
+
+<img src="https://github.com/               SachaaBoris/OC_13_OCL/blob/main/static/assets/img/logo.png"
+<img src="https://raw.githubusercontent.com/SachaaBoris/OC_13_OCL/main/static/assets/img/logo.png" width="273"/>
   
 # Bienvenue voyageur !  
   
@@ -19,55 +22,55 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 *Autres compétences :* Javascript, CSS, HTML, Docker, Github Actions  
 *Langues* : Anglais Niveau B2-C1  
 
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_cmd.png "cmd")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_Docker.png "Docker")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_Github.png "Github")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_Linux.png "Linux")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_Powershell.png "Powershell")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_PyCharm.png "PyCharm")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_Sentry.png "Sentry")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_VSCode.png "VSCode")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/app_Windows.png "Windows")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png "cmd")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png "Docker")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Github.png "Github")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png "Linux")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png "Powershell")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_PyCharm.png "PyCharm")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Sentry.png "Sentry")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_VSCode.png "VSCode")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png "Windows")
   
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/lang_CSS3.png "CSS3")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/lang_HTML5.png "HTML5")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/lang_Javascript.png "Javascript")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/lang_Python.png "Python")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/lang_regex.png "regex")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png "CSS3")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png "HTML5")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png "Javascript")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png "Python")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png "regex")
 
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_ActionsGithub.png "ActionsGithub")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_ActionsGitlab.png "ActionsGitlab")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_AiPrompts.png "AiPrompts")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_Bootstrap.png "Bootstrap")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_Django.png "Django")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_mysql.png "mysql")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/tech_Postgresql.png "Postgresql")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGithub.png "ActionsGithub")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGitlab.png "ActionsGitlab")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png "AiPrompts")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png "Bootstrap")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png "Django")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_mysql.png "mysql")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postgresql.png "Postgresql")
   
   
 ## Mes influences
 Ce résumé ne serait pas complet sans mes influences, ces personne/équipes ont participé à forger mon identité, certaines pratiques,
 voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable :
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_BlogDuModerateur.png "BlogDuModerateur")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_CodeHeroes.png "CodeHeroes")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_CowCotLand.png "CowCotLand")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_Developpez.png "Developpez")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_Feedly.png "Feedly")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_HackerNews.png "HackerNews")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_JeSuisUnDev.png "JeSuisUnDev")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_JournalDuNet.png "JournalDuNet")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_Medium.png "Medium")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_UsineDigitale.png "UsineDigitale")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_WeLoveDevs.png "WeLoveDevs")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/favicon_ZDNet.png "ZDNet")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_BlogDuModerateur.png "BlogDuModerateur")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CodeHeroes.png "CodeHeroes")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CowCotLand.png "CowCotLand")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Developpez.png "Developpez")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Feedly.png "Feedly")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_HackerNews.png "HackerNews")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_JeSuisUnDev.png "JeSuisUnDev")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_JournalDuNet.png "JournalDuNet")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Medium.png "Medium")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_UsineDigitale.png "UsineDigitale")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_WeLoveDevs.png "WeLoveDevs")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_ZDNet.png "ZDNet")
   
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/wiki_JohnCarmack.png.png "John Carmack (ID)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/wiki_JeanBaptisteKempf.png "Jean-Baptiste Kempf (VLC)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/wiki_OlivierMajchrzak.png "Olivier Majchrzak (Mentor OpenClassrooms)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/ytchannel_AsbjørnThirslund[Brackeys].png "Asbjørn Thirslund (Brackeys)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/ytchannel_JohnElder.png "John Elder (CodeMy)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/ytchannel_KarolyZsolnaiFehér[TwoMinutesPapers].png "Karoly Zsolnai Fehér (TwoMinutesPapers)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/ytchannel_OlivierPoncet.png "Olivier Poncet")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/blob/main/static/images/icons/ytchannel_SebastianLague.png "Sebastian Lague (Coding Adventures)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JohnCarmack.png.png "John Carmack (ID)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JeanBaptisteKempf.png "Jean-Baptiste Kempf (VLC)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_OlivierMajchrzak.png "Olivier Majchrzak (Mentor OpenClassrooms)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_AsbjørnThirslund[Brackeys].png "Asbjørn Thirslund (Brackeys)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_JohnElder.png "John Elder (CodeMy)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_KarolyZsolnaiFehér[TwoMinutesPapers].png "Karoly Zsolnai Fehér (TwoMinutesPapers)")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_OlivierPoncet.png "Olivier Poncet")
+![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_SebastianLague.png "Sebastian Lague (Coding Adventures)")
 
   
 ## Me contacter  
