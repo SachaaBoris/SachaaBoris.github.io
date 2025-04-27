@@ -18,7 +18,7 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 *IDE :* Pycharm / Vscode / Notepad++  
 *Autres compétences :* Javascript, CSS, HTML, Docker, Github Actions  
 *Langues* : Anglais Niveau B2-C1  
-
+  
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png" width="50px" alt="Docker" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Github.png" width="50px" alt="Github" />
@@ -28,13 +28,13 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Sentry.png" width="50px" alt="Sentry" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_VSCode.png" width="50px" alt="VSCode" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" />
-
+  
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png" width="50px" alt="regex" />
-
+  
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGithub.png" width="50px" alt="ActionsGithub" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGitlab.png" width="50px" alt="ActionsGitlab" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" />
@@ -42,7 +42,7 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_mysql.png" width="50px" alt="mysql" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postgresql.png" width="50px" alt="Postgresql" />
-
+  
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_ps.png" width="50px" alt="Photoshop" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_ai.png" width="50px" alt="Illustrator" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_id.png" width="50px" alt="InDesign" />
@@ -52,7 +52,8 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 
 ## Mes influences
 Ce résumé ne serait pas complet sans mes influences, ces personne/équipes ont participé à forger mon identité, certaines pratiques,
-voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable :
+voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable :  
+  
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_BlogDuModerateur.png" width="50px" alt="BlogDuModerateur" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CodeHeroes.png" width="50px" alt="CodeHeroes" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CowCotLand.png" width="50px" alt="CowCotLand" />
@@ -65,7 +66,7 @@ voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable 
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_UsineDigitale.png" width="50px" alt="UsineDigitale" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_WeLoveDevs.png" width="50px" alt="WeLoveDevs" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_ZDNet.png" width="50px" alt="ZDNet" />
-
+  
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JohnCarmack.png" width="50px" alt="John Carmack (ID)" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JeanBaptisteKempf.png" width="50px" alt="Jean-Baptiste Kempf (VLC)" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_OlivierMajchrzak.png" width="50px" alt="Olivier Majchrzak (Mentor OpenClassrooms)" />
