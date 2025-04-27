@@ -59,14 +59,14 @@ voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable 
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_WeLoveDevs.png" width="100px" alt="WeLoveDevs" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_ZDNet.png" width="100px" alt="ZDNet" />
 
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JohnCarmack.png.png" width="100px" alt="John Carmack (ID)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JohnCarmack.png" width="100px" alt="John Carmack (ID)" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JeanBaptisteKempf.png" width="100px" alt="Jean-Baptiste Kempf (VLC)" />
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_OlivierMajchrzak.png" width="100px" alt="Olivier Majchrzak (Mentor OpenClassrooms)" />
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_AsbjørnThirslund[Brackeys].png" width="100px" alt="Asbjørn Thirslund (Brackeys)" />
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_JohnElder.png" width="100px" alt="John Elder (CodeMy)" />
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_KarolyZsolnaiFehér[TwoMinutesPapers].png" width="100px" alt="Karoly Zsolnai Fehér (TwoMinutesPapers)" />
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_OlivierPoncet.png" width="100px" alt="Olivier Poncet" />
-<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_SebastianLague.png" width="100px" alt="Sebastian Lague (Coding Adventures)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchanel_AsbjørnThirslund[Brackeys].png" width="100px" alt="Asbjørn Thirslund (Brackeys)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchanel_JohnElder.png" width="100px" alt="John Elder (CodeMy)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchanel_KarolyZsolnaiFehér[TwoMinutesPapers].png" width="100px" alt="Karoly Zsolnai Fehér (TwoMinutesPapers)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchanel_OlivierPoncet.png" width="100px" alt="Olivier Poncet" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchanel_SebastianLague.png" width="100px" alt="Sebastian Lague (Coding Adventures)" />
 
 
   
