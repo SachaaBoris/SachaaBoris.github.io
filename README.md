@@ -6,10 +6,9 @@
   
 ## A propos de moi  
 Adepte de la souris et du clavier, j'ai, depuis mon enfance, développé une passion dévorante pour l'informatique et, plus globalement, la création assistée par ordinateur. J'ai d'abord plongé dans l'exploration des coulisses des scripts et la création de mes propres mods pour personnaliser certaines expériences de jeux vidéo. Cette curiosité m'a rapidement amené à m'intéresser à la web-bidouille au début des années 2000 (mes premiers pas en tant que webmaster) et à développer des scripts destinés à simplifier mes tâches quotidiennes. Poste de webmaster pratiqué tout au long des années 2000's qui, par le biais du webdesign, m'amena au graphisme, que j'ai ensuite pratiqué tout au long des années 2010 en parallèle de la bidouille que je n'ai jamais vraiment cessée.  
-J'adore toujours résoudre des problèmes, explorer différentes pistes et voir le fruit de mes lignes de code exécuter les tâches demandées... Je trouve cela extrêmement motivant et gratifiant.  
-C'est pourquoi j'ai finalement décidé, en 2024, de mettre à profit cette passion et cette énergie en approfondissant cette voie plus sérieusement avec l'école OpenClassrooms, dont j'ai reçu le diplôme "Développeur d'application en langage Python" en 2025.  
+J'adore toujours résoudre des problèmes, explorer différentes pistes et voir le fruit de mes lignes de code exécuter les tâches demandées... Je trouve cela extrêmement motivant et gratifiant. C'est pourquoi j'ai finalement décidé, en 2024, de mettre à profit cette passion et cette énergie en approfondissant cette voie plus sérieusement avec l'école OpenClassrooms, dont j'ai reçu le diplôme "Développeur d'application en langage Python" en 2025.  
   
-Mon parcours en design et en graphisme m'a permis d'acquérir une vision globale des projets, me rendant à l'aise aussi bien sur les aspects back-end et front-end que sur la réflexion en amont autour des besoins clients et de l'expérience utilisateur. Plus de 25 années de bidouillages extremement divers dans de multiples domaines font de mon expérience un atout majeur, dans un poste où il faudra souvent être autant créatif que pragmatique pour trouver la meilleur solution à un besoin.  
+Mon parcours en design et en graphisme m'a permis d'acquérir une vision globale des projets, me rendant à l'aise aussi bien sur les aspects back-end et front-end que sur la réflexion en amont autour des besoins clients et de l'expérience utilisateur. Plus de 25 années de bidouillages extremement divers dans de multiples domaines font de mon expérience un atout majeur, dans un poste où il faudra souvent être autant débrouillard que créatif et pragmatique pour trouver la meilleure solution à un besoin.  
 Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un développeur fullstack. Je suis donc à la recherche d'une équipe ou d'un partenariat pour mettre en pratique l'ensemble de mes acquis et compétences.  
   
   
@@ -102,7 +101,7 @@ voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable 
   
 ## Me contacter  
 Vous pouvez me contacter sur [Linkedin](https://fr.linkedin.com/in/sacha-amrain-14b4205a) si vous le souhaitez !  
-Vous trouverez également mon email ainsi que sur mon CV complet dans ce [Portfolio Graphiste](http://sachaa.free.fr/book/book.html)  
+Vous trouverez également mon email ainsi que sur mon CV complet dans mon [Portfolio Graphiste](http://sachaa.free.fr/book/book.html)  
   
 
   
@@ -128,12 +127,10 @@ Vous trouverez également mon email ainsi que sur mon CV complet dans ce [Portfo
 A devotee of the mouse and keyboard, I have, since childhood, developed a consuming passion for computers and, more broadly, computer-assisted creation. I first dove into the behind-the-scenes of scripting and creating my own mods to customize some video game experiences.  
 This curiosity quickly led me to explore web tinkering in the early 2000s (my first steps as a webmaster) and to develop scripts designed to simplify my daily tasks.  
 Working as a webmaster throughout the 2000s, web design naturally brought me to graphic design, which I continued practicing all through the 2010s, alongside my ever-ongoing tinkering.  
-I still love solving problems, exploring different paths, and seeing the fruits of my code lines perform the intended tasks... I find it extremely motivating and rewarding.  
-That's why, in 2024, I finally decided to put this passion and energy to greater use by seriously pursuing this path through OpenClassrooms, where I earned my "Python Application Developer" diploma in 2025.  
-My background in design and graphics has given me a global vision of projects, making me comfortable with both back-end and front-end aspects, as well as with the upstream thinking around client needs and user experience.  
-More than 25 years of extremely diverse tinkering in many fields have made my experience a major asset, especially in a role that often requires as much creativity as pragmatism to find the best solution to a given need.  
-Today, I am capable of fulfilling the missions of a junior DevOps engineer or a fullstack developer.  
-I am currently seeking a team or partnership to put all my skills and knowledge into practice.  
+I still love solving problems, exploring different paths, and seeing the fruits of my code lines perform the intended tasks... I find it extremely motivating and rewarding. That's why, in 2024, I finally decided to put this passion and energy to greater use by seriously pursuing this path through OpenClassrooms, where I earned my "Python Application Developer" diploma in 2025. 
+   
+My background in design and graphic arts has allowed me to gain a comprehensive view of projects, making me comfortable with both back-end and front-end aspects, as well as with the initial thinking around client needs and user experience. Over 25 years of extremely varied tinkering in multiple fields have made my experience a major asset, in a position where one often needs to be as resourceful as creative and pragmatic in order to find the best solution to a need.  
+Today, I am capable of handling the tasks of a junior DevOps or a full-stack developer. Therefore, I am looking for a team or partnership to apply all of my acquired knowledge and skills.  
   
   
   
@@ -224,5 +221,5 @@ This summary would not be complete without my influences, those individuals/team
   
 ## Contact Me  
 You can reach out to me on [LinkedIn](https://fr.linkedin.com/in/sacha-amrain-14b4205a) if you wish!  
-You will also find my email as well as my full resume in this [Graphic Designer Portfolio](http://sachaa.free.fr/book/book.html)  
+You will also find my email as well as my full resume in my [Graphic Designer Portfolio](http://sachaa.free.fr/book/book.html)  
   
