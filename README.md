@@ -1,9 +1,3 @@
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/landing/landing.png "Welcome")
-
-	
-Initial commit
-<img src="https://github.com/SachaaBoris/SachaaBoris.github.io/blob/static/images/landing/landing.png" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/landing/landing.png" width="100%"/>
   
 # Bienvenue voyageur !  
@@ -25,55 +19,55 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 *Autres compétences :* Javascript, CSS, HTML, Docker, Github Actions  
 *Langues* : Anglais Niveau B2-C1  
 
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png "cmd")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png "Docker")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Github.png "Github")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png "Linux")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png "Powershell")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_PyCharm.png "PyCharm")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Sentry.png "Sentry")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_VSCode.png "VSCode")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png "Windows")
-  
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png "CSS3")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png "HTML5")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png "Javascript")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png "Python")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png "regex")
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="300px" alt="cmd" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Docker.png" width="300px" alt="Docker" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Github.png" width="300px" alt="Github" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png" width="300px" alt="Linux" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="300px" alt="Powershell" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_PyCharm.png" width="300px" alt="PyCharm" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Sentry.png" width="300px" alt="Sentry" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_VSCode.png" width="300px" alt="VSCode" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="300px" alt="Windows" />
 
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGithub.png "ActionsGithub")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGitlab.png "ActionsGitlab")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png "AiPrompts")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png "Bootstrap")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png "Django")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_mysql.png "mysql")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postgresql.png "Postgresql")
-  
-  
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="300px" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="300px" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="300px" alt="Javascript" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="300px" alt="Python" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png" width="300px" alt="regex" />
+
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGithub.png" width="300px" alt="ActionsGithub" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGitlab.png" width="300px" alt="ActionsGitlab" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="300px" alt="AiPrompts" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="300px" alt="Bootstrap" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="300px" alt="Django" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_mysql.png" width="300px" alt="mysql" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Postgresql.png" width="300px" alt="Postgresql" />
+
 ## Mes influences
 Ce résumé ne serait pas complet sans mes influences, ces personne/équipes ont participé à forger mon identité, certaines pratiques,
 voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable :
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_BlogDuModerateur.png "BlogDuModerateur")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CodeHeroes.png "CodeHeroes")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CowCotLand.png "CowCotLand")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Developpez.png "Developpez")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Feedly.png "Feedly")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_HackerNews.png "HackerNews")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_JeSuisUnDev.png "JeSuisUnDev")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_JournalDuNet.png "JournalDuNet")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Medium.png "Medium")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_UsineDigitale.png "UsineDigitale")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_WeLoveDevs.png "WeLoveDevs")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_ZDNet.png "ZDNet")
-  
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JohnCarmack.png.png "John Carmack (ID)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JeanBaptisteKempf.png "Jean-Baptiste Kempf (VLC)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_OlivierMajchrzak.png "Olivier Majchrzak (Mentor OpenClassrooms)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_AsbjørnThirslund[Brackeys].png "Asbjørn Thirslund (Brackeys)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_JohnElder.png "John Elder (CodeMy)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_KarolyZsolnaiFehér[TwoMinutesPapers].png "Karoly Zsolnai Fehér (TwoMinutesPapers)")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_OlivierPoncet.png "Olivier Poncet")
-![](https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_SebastianLague.png "Sebastian Lague (Coding Adventures)")
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_BlogDuModerateur.png" width="300px" alt="BlogDuModerateur" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CodeHeroes.png" width="300px" alt="CodeHeroes" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CowCotLand.png" width="300px" alt="CowCotLand" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Developpez.png" width="300px" alt="Developpez" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Feedly.png" width="300px" alt="Feedly" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_HackerNews.png" width="300px" alt="HackerNews" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_JeSuisUnDev.png" width="300px" alt="JeSuisUnDev" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_JournalDuNet.png" width="300px" alt="JournalDuNet" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Medium.png" width="300px" alt="Medium" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_UsineDigitale.png" width="300px" alt="UsineDigitale" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_WeLoveDevs.png" width="300px" alt="WeLoveDevs" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_ZDNet.png" width="300px" alt="ZDNet" />
+
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JohnCarmack.png.png" width="300px" alt="John Carmack (ID)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_JeanBaptisteKempf.png" width="300px" alt="Jean-Baptiste Kempf (VLC)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/wiki_OlivierMajchrzak.png" width="300px" alt="Olivier Majchrzak (Mentor OpenClassrooms)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_AsbjørnThirslund[Brackeys].png" width="300px" alt="Asbjørn Thirslund (Brackeys)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_JohnElder.png" width="300px" alt="John Elder (CodeMy)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_KarolyZsolnaiFehér[TwoMinutesPapers].png" width="300px" alt="Karoly Zsolnai Fehér (TwoMinutesPapers)" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_OlivierPoncet.png" width="300px" alt="Olivier Poncet" />
+<img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/ytchannel_SebastianLague.png" width="300px" alt="Sebastian Lague (Coding Adventures)" />
+
 
   
 ## Me contacter  
@@ -84,3 +78,4 @@ Vous trouverez également mon email ainsi que sur mon CV complet dans le Portfol
 
 
 
+Initial commit
