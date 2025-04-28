@@ -69,7 +69,7 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
   
   
 ## Mes influences
-Ce résumé ne serait pas complet sans mes influences, ces personne/équipes ont participé à forger mon identité, certaines pratiques,
+Ce résumé ne serait pas complet sans mes influences, ces personnes/équipes ont participé à forger mon identité, certaines pratiques,
 voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable :  
   
 <p style="text-align:center;">
