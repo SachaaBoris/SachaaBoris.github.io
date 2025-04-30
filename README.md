@@ -22,7 +22,7 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
   
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" title="Python" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_PHP.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_PHP.png" width="50px" alt="regex" title="PHP" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" title="HTML5" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" title="CSS3" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" title="Javascript" style="margin-left:10px;margin-right:10px;" />
@@ -42,7 +42,7 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" title="AiPrompts" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="50px" alt="Bootstrap" title="Bootstrap" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_React.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_React.png" width="50px" alt="React" title="Django" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -149,7 +149,7 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
   
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" title="Python" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_PHP.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_PHP.png" width="50px" alt="regex" title="PHP" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" title="HTML5" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" title="CSS3" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" title="Javascript" style="margin-left:10px;margin-right:10px;" />
@@ -169,7 +169,7 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" title="AiPrompts" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="50px" alt="Bootstrap" title="Bootstrap" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_React.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_React.png" width="50px" alt="React" title="Django" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
