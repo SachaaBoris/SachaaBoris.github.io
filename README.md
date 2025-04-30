@@ -21,10 +21,12 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 *Langues* : Français courant et Anglais Niveau B2-C1  
   
 <p style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png" width="50px" alt="Linux" title="Linux" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" title="Windows" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" title="cmd" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="50px" alt="Powershell" title="Powershell" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" title="Python" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_PHP.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" title="HTML5" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" title="CSS3" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" title="Javascript" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -35,19 +37,12 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
 </p>
 
 <p style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" title="Python" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" title="CSS3" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" title="HTML5" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" title="Javascript" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
-</p>
-
-<p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGithub.png" width="50px" alt="ActionsGithub" title="ActionsGithub" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGitlab.png" width="50px" alt="ActionsGitlab" title="ActionsGitlab" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" title="AiPrompts" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="50px" alt="Bootstrap" title="Bootstrap" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_React.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -65,19 +60,25 @@ Aujourd'hui, je suis capable d'assurer les missions d'un devOps junior ou d'un d
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_pr.png" width="50px" alt="Premiere" title="Premiere" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_acr.png" width="50px" alt="Acrobat" title="Acrobat" style="margin-left:10px;margin-right:10px;" />
 </p>
+
+<p style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png" width="50px" alt="Linux" title="Linux" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" title="Windows" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" title="cmd" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="50px" alt="Powershell" title="Powershell" style="margin-left:10px;margin-right:10px;" />
+</p>
   
   
   
 ## Mes influences
-Ce résumé ne serait pas complet sans mes influences, ces personnes/équipes/communautés ont participé à forger mon identité, certaines pratiques,
-voir philosophies, les mentionner me parait tout aussi naturel qu'indispensable :  
+Ce résumé ne serait pas complet sans mon réseau d'influences. Ces personnes/équipes/communautés qui ont participé à forger mon identité, certaines pratiques,
+voir philosophies. Grace à elles je reste au taquet sur les technos émergentes, les mentionner me parait tout aussi naturel qu'indispensable :  
   
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_BlogDuModerateur.png" width="50px" alt="BlogDuModerateur" title="BlogDuModerateur" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CodeHeroes.png" width="50px" alt="CodeHeroes" title="CodeHeroes" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CowCotLand.png" width="50px" alt="CowCotLand" title="CowCotLand" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Developpez.png" width="50px" alt="Developpez" title="Developpez" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Feedly.png" width="50px" alt="Feedly" title="Feedly" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_HackerNews.png" width="50px" alt="HackerNews" title="HackerNews" style="margin-left:10px;margin-right:10px;" />
 </p>
 
@@ -145,11 +146,14 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
 *Other skills:* Javascript, CSS, HTML, PHP, lua, Docker, Github Actions, Adobe Photoshop & Illustrator  
 *Languages:* Native French and English (B2-C1 level)  
   
+  
 <p style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png" width="50px" alt="Linux" title="Linux" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" title="Windows" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" title="cmd" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="50px" alt="Powershell" title="Powershell" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" title="Python" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_PHP.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" title="HTML5" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" title="CSS3" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" title="Javascript" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -160,19 +164,12 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
 </p>
 
 <p style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Python.png" width="50px" alt="Python" title="Python" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_CSS3.png" width="50px" alt="CSS3" title="CSS3" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_HTML5.png" width="50px" alt="HTML5" title="HTML5" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_Javascript.png" width="50px" alt="Javascript" title="Javascript" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/lang_regex.png" width="50px" alt="regex" title="regex" style="margin-left:10px;margin-right:10px;" />
-</p>
-
-<p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGithub.png" width="50px" alt="ActionsGithub" title="ActionsGithub" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_ActionsGitlab.png" width="50px" alt="ActionsGitlab" title="ActionsGitlab" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_AiPrompts.png" width="50px" alt="AiPrompts" title="AiPrompts" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Bootstrap.png" width="50px" alt="Bootstrap" title="Bootstrap" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_Django.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/tech_React.png" width="50px" alt="Django" title="Django" style="margin-left:10px;margin-right:10px;" />
 </p>
 
 <p style="text-align:center;">
@@ -190,18 +187,24 @@ Today, I am capable of handling the tasks of a junior DevOps or a full-stack dev
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_pr.png" width="50px" alt="Premiere" title="Premiere" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/adobe_acr.png" width="50px" alt="Acrobat" title="Acrobat" style="margin-left:10px;margin-right:10px;" />
 </p>
+
+<p style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Linux.png" width="50px" alt="Linux" title="Linux" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Windows.png" width="50px" alt="Windows" title="Windows" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_cmd.png" width="50px" alt="cmd" title="cmd" style="margin-left:10px;margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/app_Powershell.png" width="50px" alt="Powershell" title="Powershell" style="margin-left:10px;margin-right:10px;" />
+</p>
   
   
   
 ## My Influences
-This summary would not be complete without my influences, those individuals/teams who helped forge my identity, certain practices, and even philosophies. Mentioning them feels as natural as it is essential:
+This summary wouldn't be complete without mentioning my network of influences. These people/teams/communities have helped shape my identity, certain practices, and even philosophies. Thanks to them, I stay up-to-date on emerging technologies; mentioning them seems both natural and essential :
   
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_BlogDuModerateur.png" width="50px" alt="BlogDuModerateur" title="BlogDuModerateur" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CodeHeroes.png" width="50px" alt="CodeHeroes" title="CodeHeroes" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_CowCotLand.png" width="50px" alt="CowCotLand" title="CowCotLand" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Developpez.png" width="50px" alt="Developpez" title="Developpez" style="margin-left:10px;margin-right:10px;" />
-  <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_Feedly.png" width="50px" alt="Feedly" title="Feedly" style="margin-left:10px;margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/SachaaBoris/SachaaBoris.github.io/main/static/images/icons/favicon_HackerNews.png" width="50px" alt="HackerNews" title="HackerNews" style="margin-left:10px;margin-right:10px;" />
 </p>
 
